@@ -77,6 +77,7 @@ Refactors should preserve these behaviors exactly unless a deliberate product ch
 6. Clicking an inactive summary metric applies that metric to all eligible year cards and the frequency metric chip (if filterable).
 7. Clicking an active summary metric clears that metric from all eligible year cards and clears the frequency metric chip.
 8. Non-filterable metric chips are disabled.
+9. Clicking any summary metric card clears the active frequency fact selection (for example `Most Active Month`).
 
 ## Reset Behavior
 

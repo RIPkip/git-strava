@@ -3046,6 +3046,7 @@ async function init() {
       hoverClearedSummaryYearMetricKey,
       (metricKey, wasActiveMetricCard) => {
         hoverClearedSummaryYearMetricKey = wasActiveMetricCard ? metricKey : null;
+        selectedFrequencyFactKey = null;
         if (wasActiveMetricCard) {
           visibleYearMetricYears.forEach((year) => {
             setYearMetricSelection(year, null);
