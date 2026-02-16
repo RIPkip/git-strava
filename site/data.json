@@ -2400,6 +2400,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-02-16",
+      "hour": 12,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5188,6 +5195,15 @@
           "distance": 35604.0,
           "elevation_gain": 104.0,
           "moving_time": 4301.0
+        },
+        "2026-02-16": {
+          "activity_ids": [
+            17415792321
+          ],
+          "count": 1,
+          "distance": 50279.4,
+          "elevation_gain": 129.0,
+          "moving_time": 6649.0
         }
       },
       "Run": {
@@ -5423,7 +5439,7 @@
       }
     }
   },
-  "generated_at": "2026-02-15T15:25:40.549639+00:00",
+  "generated_at": "2026-02-16T15:40:21.440949+00:00",
   "other_bucket": "OtherSports",
   "type_meta": {
     "Ride": {
