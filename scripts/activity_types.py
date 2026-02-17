@@ -122,14 +122,14 @@ DEFAULT_TYPE_LABELS = {
 }
 
 TYPE_ACCENT_COLORS = {
-    "Run": "#01cdfe",
-    "Ride": "#05ffa1",
+    "Run": "#387a19",
+    "Ride": "ed2b1a",
     "Walk": "#d6ff6b",
     "WeightTraining": "#ff71ce",
     "Hike": "#d6ff6b",
     "Golf": "#38b000",
     "WalkHike": "#d6ff6b",
-    "Swim": "#3a86ff",
+    "Swim": "#12A5B8",
     "WaterSports": "#118ab2",
     "WinterSports": "#b8c0ff",
     "GymCardio": "#ff8a5b",
