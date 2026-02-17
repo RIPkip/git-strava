@@ -5439,19 +5439,19 @@
       }
     }
   },
-  "generated_at": "2026-02-16T15:40:21.440949+00:00",
+  "generated_at": "2026-02-17T15:53:10.629266+00:00",
   "other_bucket": "OtherSports",
   "type_meta": {
     "Ride": {
-      "accent": "#05ffa1",
+      "accent": "ed2b1a",
       "label": "Ride"
     },
     "Run": {
-      "accent": "#01cdfe",
+      "accent": "#387a19",
       "label": "Run"
     },
     "Swim": {
-      "accent": "#3a86ff",
+      "accent": "#12A5B8",
       "label": "Swim"
     },
     "TrailRun": {
