@@ -2799,6 +2799,34 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 20,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 19,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 12,
+      "subtype": "Swim",
+      "type": "Swim",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 16,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5715,6 +5743,24 @@
           "distance": 85398.1,
           "elevation_gain": 201.0,
           "moving_time": 10288.0
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            18296791931
+          ],
+          "count": 1,
+          "distance": 32373.3,
+          "elevation_gain": 92.0,
+          "moving_time": 3896.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            18307489007
+          ],
+          "count": 1,
+          "distance": 31057.1,
+          "elevation_gain": 61.0,
+          "moving_time": 3546.0
         }
       },
       "Run": {
@@ -6090,6 +6136,15 @@
           "distance": 10505.6,
           "elevation_gain": 30.0,
           "moving_time": 3123.0
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            18296378513
+          ],
+          "count": 1,
+          "distance": 3171.0,
+          "elevation_gain": 36.0,
+          "moving_time": 888.0
         }
       },
       "Swim": {
@@ -6254,6 +6309,15 @@
           "distance": 675.0,
           "elevation_gain": 0.0,
           "moving_time": 712.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            18304974421
+          ],
+          "count": 1,
+          "distance": 2275.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2775.0
         }
       },
       "TrailRun": {
@@ -6291,7 +6355,7 @@
       }
     }
   },
-  "generated_at": "2026-04-28T16:51:01.741192+00:00",
+  "generated_at": "2026-04-29T16:27:01.989825+00:00",
   "other_bucket": "OtherSports",
   "type_meta": {
     "Ride": {
