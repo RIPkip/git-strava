@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T17:37:45.561070+00:00",
+  "generated_at": "2026-05-20T17:53:51.002323+00:00",
   "years": {
     "2024": {
       "Ride": {
@@ -3451,6 +3451,15 @@
           "distance": 4790.0,
           "elevation_gain": 10.0,
           "moving_time": 1279.0
+        },
+        "2026-05-20": {
+          "activity_ids": [
+            18582872227
+          ],
+          "count": 1,
+          "distance": 10433.1,
+          "elevation_gain": 0.0,
+          "moving_time": 2819.0
         }
       },
       "Swim": {
@@ -3660,6 +3669,15 @@
           "distance": 475.0,
           "elevation_gain": 0.0,
           "moving_time": 495.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            18573660208
+          ],
+          "count": 1,
+          "distance": 1700.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2235.0
         }
       },
       "TrailRun": {
