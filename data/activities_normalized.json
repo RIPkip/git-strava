@@ -5674,5 +5674,29 @@
     "start_date_local": "2026-07-05T14:44:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 5133.7,
+    "elevation_gain": 16.0,
+    "id": 19205008602,
+    "moving_time": 1461.0,
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-06T20:26:21Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 13007.1,
+    "elevation_gain": 65.0,
+    "id": 19216306273,
+    "moving_time": 3601.0,
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-07T16:41:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
