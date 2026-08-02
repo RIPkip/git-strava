@@ -5974,5 +5974,17 @@
     "start_date_local": "2026-07-31T17:12:02Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 6084.9,
+    "elevation_gain": 28.0,
+    "id": 19568854929,
+    "moving_time": 1714.0,
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-02T13:22:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
