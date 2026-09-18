@@ -3772,6 +3772,13 @@
       "subtype": "Swim",
       "type": "Swim",
       "year": 2026
+    },
+    {
+      "date": "2026-09-18",
+      "hour": 14,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7185,6 +7192,15 @@
           "distance": 46634.8,
           "elevation_gain": 182.0,
           "moving_time": 5832.0
+        },
+        "2026-09-18": {
+          "activity_ids": [
+            20228200557
+          ],
+          "count": 1,
+          "distance": 51742.7,
+          "elevation_gain": 313.0,
+          "moving_time": 7083.0
         }
       },
       "Run": {
@@ -8467,7 +8483,7 @@
       }
     }
   },
-  "generated_at": "2026-09-17T18:49:27.797461+00:00",
+  "generated_at": "2026-09-18T18:05:13.741173+00:00",
   "other_bucket": "OtherSports",
   "type_meta": {
     "Ride": {
