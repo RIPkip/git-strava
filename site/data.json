@@ -3912,6 +3912,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-10-06",
+      "hour": 19,
+      "subtype": "Swim",
+      "type": "Swim",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8750,6 +8757,15 @@
           "distance": 2225.0,
           "elevation_gain": 0.0,
           "moving_time": 2590.0
+        },
+        "2026-10-06": {
+          "activity_ids": [
+            20478427354
+          ],
+          "count": 1,
+          "distance": 2475.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2760.0
         }
       },
       "TrailRun": {
@@ -8787,7 +8803,7 @@
       }
     }
   },
-  "generated_at": "2026-10-05T21:49:52.085443+00:00",
+  "generated_at": "2026-10-06T19:59:05.729670+00:00",
   "other_bucket": "OtherSports",
   "type_meta": {
     "Ride": {
