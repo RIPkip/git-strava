@@ -4206,6 +4206,20 @@
       "subtype": "Swim",
       "type": "Swim",
       "year": 2026
+    },
+    {
+      "date": "2026-11-12",
+      "hour": 12,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-12",
+      "hour": 19,
+      "subtype": "Swim",
+      "type": "Swim",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7881,6 +7895,15 @@
           "distance": 28889.0,
           "elevation_gain": 28.0,
           "moving_time": 3617.0
+        },
+        "2026-11-12": {
+          "activity_ids": [
+            20959322712
+          ],
+          "count": 1,
+          "distance": 37726.8,
+          "elevation_gain": 43.0,
+          "moving_time": 4373.0
         }
       },
       "Run": {
@@ -9414,6 +9437,15 @@
           "distance": 1600.0,
           "elevation_gain": 0.0,
           "moving_time": 1873.0
+        },
+        "2026-11-12": {
+          "activity_ids": [
+            20963856945
+          ],
+          "count": 1,
+          "distance": 1950.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2335.0
         }
       },
       "TrailRun": {
@@ -9451,7 +9483,7 @@
       }
     }
   },
-  "generated_at": "2026-11-11T21:44:39.118464+00:00",
+  "generated_at": "2026-11-12T21:44:07.581517+00:00",
   "other_bucket": "OtherSports",
   "type_meta": {
     "Ride": {
