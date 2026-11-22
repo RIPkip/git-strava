@@ -7366,5 +7366,29 @@
     "start_date_local": "2026-11-21T12:07:07Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-22",
+    "distance": 7159.0,
+    "elevation_gain": 249.0,
+    "id": 21083550471,
+    "moving_time": 5606.0,
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-11-22T10:16:54Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-22",
+    "distance": 22649.1,
+    "elevation_gain": 83.0,
+    "id": 21086171213,
+    "moving_time": 6304.0,
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-22T15:32:55Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
